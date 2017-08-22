@@ -1,0 +1,15 @@
+C:\Users\HGX\Documents\BodyBasics-WPF\bin\AnyCPU\Debug\BodyBasics-WPF.exe.config
+C:\Users\HGX\Documents\BodyBasics-WPF\bin\AnyCPU\Debug\BodyBasics-WPF.exe
+C:\Users\HGX\Documents\BodyBasics-WPF\bin\AnyCPU\Debug\BodyBasics-WPF.pdb
+C:\Users\HGX\Documents\BodyBasics-WPF\obj\Debug\MainWindow.baml
+C:\Users\HGX\Documents\BodyBasics-WPF\obj\Debug\MainWindow.g.cs
+C:\Users\HGX\Documents\BodyBasics-WPF\obj\Debug\App.g.cs
+C:\Users\HGX\Documents\BodyBasics-WPF\obj\Debug\BodyBasics-WPF_MarkupCompile.cache
+C:\Users\HGX\Documents\BodyBasics-WPF\obj\Debug\BodyBasics-WPF.g.resources
+C:\Users\HGX\Documents\BodyBasics-WPF\obj\Debug\Microsoft.Samples.Kinect.BodyBasics.Properties.Resources.resources
+C:\Users\HGX\Documents\BodyBasics-WPF\obj\Debug\BodyBasics-WPF.csproj.GenerateResource.Cache
+C:\Users\HGX\Documents\BodyBasics-WPF\obj\Debug\BodyBasics-WPF.exe
+C:\Users\HGX\Documents\BodyBasics-WPF\obj\Debug\BodyBasics-WPF.pdb
+C:\Users\HGX\Documents\BodyBasics-WPF\obj\Debug\BodyBasics-WPF.csprojResolveAssemblyReference.cache
+C:\Users\HGX\Documents\BodyBasics-WPF\bin\AnyCPU\Debug\Microsoft.Kinect.Face.dll
+C:\Users\HGX\Documents\BodyBasics-WPF\bin\AnyCPU\Debug\Microsoft.Kinect.Face.xml

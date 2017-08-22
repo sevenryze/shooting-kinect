@@ -1,0 +1,75 @@
+C:\Users\HGX\Documents\BodyBasics-WPF\obj\Debug\HGX_Body_CS_Basics.csprojResolveAssemblyReference.cache
+C:\Users\HGX\Documents\BodyBasics-WPF\obj\Debug\MainWindow.baml
+C:\Users\HGX\Documents\BodyBasics-WPF\obj\Debug\MainWindow.g.cs
+C:\Users\HGX\Documents\BodyBasics-WPF\obj\Debug\App.g.cs
+C:\Users\HGX\Documents\BodyBasics-WPF\obj\Debug\BodyBasics-WPF_MarkupCompile.cache
+C:\Users\HGX\Documents\BodyBasics-WPF\obj\Debug\BodyBasics-WPF.g.resources
+C:\Users\HGX\Documents\BodyBasics-WPF\obj\Debug\Microsoft.Samples.Kinect.BodyBasics.Properties.Resources.resources
+C:\Users\HGX\Documents\BodyBasics-WPF\obj\Debug\HGX_Body_CS_Basics.csproj.GenerateResource.Cache
+C:\Users\HGX\Documents\BodyBasics-WPF\bin\AnyCPU\Debug\BodyBasics-WPF.exe.config
+C:\Users\HGX\Documents\BodyBasics-WPF\bin\AnyCPU\Debug\BodyBasics-WPF.exe
+C:\Users\HGX\Documents\BodyBasics-WPF\bin\AnyCPU\Debug\BodyBasics-WPF.pdb
+C:\Users\HGX\Documents\BodyBasics-WPF\bin\AnyCPU\Debug\Microsoft.Kinect.Face.dll
+C:\Users\HGX\Documents\BodyBasics-WPF\bin\AnyCPU\Debug\Microsoft.Kinect.Face.xml
+C:\Users\HGX\Documents\BodyBasics-WPF\obj\Debug\BodyBasics-WPF.exe
+C:\Users\HGX\Documents\BodyBasics-WPF\obj\Debug\BodyBasics-WPF.pdb
+C:\Users\HGX\Documents\HGX_Body_CS_Basics\bin\AnyCPU\Debug\BodyBasics-WPF.exe.config
+C:\Users\HGX\Documents\HGX_Body_CS_Basics\bin\AnyCPU\Debug\BodyBasics-WPF.exe
+C:\Users\HGX\Documents\HGX_Body_CS_Basics\bin\AnyCPU\Debug\BodyBasics-WPF.pdb
+C:\Users\HGX\Documents\HGX_Body_CS_Basics\bin\AnyCPU\Debug\Microsoft.Kinect.Face.dll
+C:\Users\HGX\Documents\HGX_Body_CS_Basics\bin\AnyCPU\Debug\Microsoft.Kinect.Face.xml
+C:\Users\HGX\Documents\HGX_Body_CS_Basics\obj\Debug\MainWindow.baml
+C:\Users\HGX\Documents\HGX_Body_CS_Basics\obj\Debug\MainWindow.g.cs
+C:\Users\HGX\Documents\HGX_Body_CS_Basics\obj\Debug\App.g.cs
+C:\Users\HGX\Documents\HGX_Body_CS_Basics\obj\Debug\BodyBasics-WPF_MarkupCompile.cache
+C:\Users\HGX\Documents\HGX_Body_CS_Basics\obj\Debug\BodyBasics-WPF.g.resources
+C:\Users\HGX\Documents\HGX_Body_CS_Basics\obj\Debug\HGX_Body_CS_Basics.Properties.Resources.resources
+C:\Users\HGX\Documents\HGX_Body_CS_Basics\obj\Debug\HGX_Body_CS_Basics.csproj.GenerateResource.Cache
+C:\Users\HGX\Documents\HGX_Body_CS_Basics\obj\Debug\BodyBasics-WPF.exe
+C:\Users\HGX\Documents\HGX_Body_CS_Basics\obj\Debug\BodyBasics-WPF.pdb
+C:\Users\HGX\Documents\HGX_Body_CS_Basics\obj\Debug\HGX_Body_CS_Basics.csprojResolveAssemblyReference.cache
+C:\Users\HGX\Music\HGX_CS_Kinect\bin\AnyCPU\Debug\BodyBasics-WPF.exe.config
+C:\Users\HGX\Music\HGX_CS_Kinect\bin\AnyCPU\Debug\BodyBasics-WPF.exe
+C:\Users\HGX\Music\HGX_CS_Kinect\bin\AnyCPU\Debug\BodyBasics-WPF.pdb
+C:\Users\HGX\Music\HGX_CS_Kinect\bin\AnyCPU\Debug\Microsoft.Kinect.Face.dll
+C:\Users\HGX\Music\HGX_CS_Kinect\bin\AnyCPU\Debug\Microsoft.Kinect.Face.xml
+C:\Users\HGX\Music\HGX_CS_Kinect\obj\Debug\MainWindow.baml
+C:\Users\HGX\Music\HGX_CS_Kinect\obj\Debug\MainWindow.g.cs
+C:\Users\HGX\Music\HGX_CS_Kinect\obj\Debug\App.g.cs
+C:\Users\HGX\Music\HGX_CS_Kinect\obj\Debug\BodyBasics-WPF_MarkupCompile.cache
+C:\Users\HGX\Music\HGX_CS_Kinect\obj\Debug\BodyBasics-WPF.g.resources
+C:\Users\HGX\Music\HGX_CS_Kinect\obj\Debug\HGX_Body_CS_Basics.Properties.Resources.resources
+C:\Users\HGX\Music\HGX_CS_Kinect\obj\Debug\HGX_Body_CS_Basics.csproj.GenerateResource.Cache
+C:\Users\HGX\Music\HGX_CS_Kinect\obj\Debug\BodyBasics-WPF.exe
+C:\Users\HGX\Music\HGX_CS_Kinect\obj\Debug\BodyBasics-WPF.pdb
+C:\Users\HGX\Music\HGX_CS_Kinect\obj\Debug\HGX_Body_CS_Basics.csprojResolveAssemblyReference.cache
+C:\Users\HGX\Pictures\HGX_CS_Kinect\bin\AnyCPU\Debug\BodyBasics-WPF.exe.config
+C:\Users\HGX\Pictures\HGX_CS_Kinect\obj\Debug\BodyBasics-WPF.exe
+C:\Users\HGX\Pictures\HGX_CS_Kinect\obj\Debug\BodyBasics-WPF.pdb
+C:\Users\HGX\Pictures\HGX_CS_Kinect\bin\AnyCPU\Debug\BodyBasics-WPF.exe
+C:\Users\HGX\Pictures\HGX_CS_Kinect\bin\AnyCPU\Debug\BodyBasics-WPF.pdb
+C:\Users\HGX\Pictures\HGX_CS_Kinect\bin\AnyCPU\Debug\Microsoft.Kinect.Face.dll
+C:\Users\HGX\Pictures\HGX_CS_Kinect\bin\AnyCPU\Debug\Microsoft.Kinect.Face.xml
+C:\Users\HGX\Pictures\HGX_CS_Kinect\obj\Debug\HGX_Body_CS_Basics.csprojResolveAssemblyReference.cache
+C:\Users\HGX\Pictures\HGX_CS_Kinect\obj\Debug\MainWindow.baml
+C:\Users\HGX\Pictures\HGX_CS_Kinect\obj\Debug\MainWindow.g.cs
+C:\Users\HGX\Pictures\HGX_CS_Kinect\obj\Debug\App.g.cs
+C:\Users\HGX\Pictures\HGX_CS_Kinect\obj\Debug\BodyBasics-WPF_MarkupCompile.cache
+C:\Users\HGX\Pictures\HGX_CS_Kinect\obj\Debug\BodyBasics-WPF.g.resources
+C:\Users\HGX\Pictures\HGX_CS_Kinect\obj\Debug\HGX_Body_CS_Basics.Properties.Resources.resources
+C:\Users\HGX\Pictures\HGX_CS_Kinect\obj\Debug\HGX_Body_CS_Basics.csproj.GenerateResource.Cache
+C:\Users\HGX\Pictures\HGX_CS_Kinect - Control\bin\AnyCPU\Debug\BodyBasics-WPF.exe.config
+C:\Users\HGX\Pictures\HGX_CS_Kinect - Control\obj\Debug\BodyBasics-WPF.exe
+C:\Users\HGX\Pictures\HGX_CS_Kinect - Control\obj\Debug\BodyBasics-WPF.pdb
+C:\Users\HGX\Pictures\HGX_CS_Kinect - Control\bin\AnyCPU\Debug\BodyBasics-WPF.exe
+C:\Users\HGX\Pictures\HGX_CS_Kinect - Control\bin\AnyCPU\Debug\BodyBasics-WPF.pdb
+C:\Users\HGX\Pictures\HGX_CS_Kinect - Control\bin\AnyCPU\Debug\Microsoft.Kinect.Face.dll
+C:\Users\HGX\Pictures\HGX_CS_Kinect - Control\bin\AnyCPU\Debug\Microsoft.Kinect.Face.xml
+C:\Users\HGX\Pictures\HGX_CS_Kinect - Control\obj\Debug\HGX_Body_CS_Basics.csprojResolveAssemblyReference.cache
+C:\Users\HGX\Pictures\HGX_CS_Kinect - Control\obj\Debug\MainWindow.baml
+C:\Users\HGX\Pictures\HGX_CS_Kinect - Control\obj\Debug\MainWindow.g.cs
+C:\Users\HGX\Pictures\HGX_CS_Kinect - Control\obj\Debug\App.g.cs
+C:\Users\HGX\Pictures\HGX_CS_Kinect - Control\obj\Debug\BodyBasics-WPF_MarkupCompile.cache
+C:\Users\HGX\Pictures\HGX_CS_Kinect - Control\obj\Debug\BodyBasics-WPF.g.resources
+C:\Users\HGX\Pictures\HGX_CS_Kinect - Control\obj\Debug\HGX_Body_CS_Basics.Properties.Resources.resources
+C:\Users\HGX\Pictures\HGX_CS_Kinect - Control\obj\Debug\HGX_Body_CS_Basics.csproj.GenerateResource.Cache
